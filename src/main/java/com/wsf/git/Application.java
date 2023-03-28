@@ -11,7 +11,6 @@ public class Application {
         System.out.println("pre分支代码");
         System.out.println("gray分支代码");
         System.out.println("gray1分支代码");
-        System.out.println("test1111");
         System.out.println("test2222");
     }
 }
