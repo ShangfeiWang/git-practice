@@ -12,5 +12,6 @@ public class Application {
         System.out.println("gray分支代码");
         System.out.println("gray1分支代码");
         System.out.println("test2222");
+        System.out.println("test3333");
     }
 }
