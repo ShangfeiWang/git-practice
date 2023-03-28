@@ -19,7 +19,6 @@ public class Application {
         System.out.println("test7777777");
         System.out.println("test8888");
         System.out.println("test9999");
-        System.out.println("test1010");
         System.out.println("test1111");
     }
 }
