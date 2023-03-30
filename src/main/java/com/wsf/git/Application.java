@@ -11,5 +11,6 @@ public class Application {
         System.out.println("pre分支代码");
         System.out.println("testResetForMixed1");
         System.out.println("testResetForMixed2");
+        System.out.println("testResetForMixed3");
     }
 }
