@@ -13,15 +13,5 @@ public class Application {
         System.out.println("gray1分支代码");
         System.out.println("test2222");
         System.out.println("test3333");
-        System.out.println("test444444");
-        System.out.println("test55555555");
-        System.out.println("test6666666666666666");
-        System.out.println("test7777777");
-        System.out.println("test8888");
-        System.out.println("test9999");
-        System.out.println("test1111");
-        System.out.println("test1313");
-        System.out.println("test1919");
-        System.out.println("test2020");
     }
 }
